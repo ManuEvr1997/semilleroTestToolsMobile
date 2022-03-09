@@ -46,6 +46,8 @@ public class ClaseBaseFinalMobil
 		
 	}
 	
+	
+	//esto es un comentario de prueba, para el primer commit
 	   //METODO DE NAVEGADOR
     @SuppressWarnings("rawtypes")
 	public  static AppiumDriver AppiumDriverConnection() {
